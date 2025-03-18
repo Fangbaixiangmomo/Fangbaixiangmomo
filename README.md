@@ -5,7 +5,7 @@
 - 🌱 I’m currently interested in quantifying the uncertainty of ensemble learning methods
 - 📫 How to reach me: email: edfang@sas.upenn.edu / hmfang22@m.fudan.edu.cn
 - BS @ <a href="https://www.fudan.edu.cn/" style="text-decoration: underline;">Fudan University</a>, Econ</br>
-- Exchanged @ <a href="https://upenn.edu/" style="text-decoration: underline;">University of Pennsylvania</a>, Math & Statistics
+- Exchanged @ <a href="https://upenn.edu/" style="text-decoration: underline;">University of Pennsylvania</a>, with courses concentrated on Math & Statistics
   
 
 <!---
